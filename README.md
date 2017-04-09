@@ -35,7 +35,7 @@ Feel free to be part of this project by creating a pull request. Questions or su
 ## To do
 - *Send Mail* option
 
-# Disclaimer
+## Disclaimer
 This software is for educational purposes only. No responsibility is held or accepted for misuse.
 
 ## License
