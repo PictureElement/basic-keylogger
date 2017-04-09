@@ -40,4 +40,5 @@ This software is for educational purposes only. No responsibility is held or acc
 
 ## License
 &copy; 2016 Marios Sofokleous
+
 Licensed under the [MIT License](LICENSE)
