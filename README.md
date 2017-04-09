@@ -2,8 +2,7 @@
 This is a basic Windows-only keylogger for US standard keyboards. 
 
 US standard keyboard layout:
-
-![us-std-keyboard keyboard](images/us-std-keyboard.png)
+![us-std-keyboard keyboard](us-std-keyboard.png)
 
 ## Description 
 This keylogger supports the following characters and symbols:
@@ -28,8 +27,7 @@ Note: Disable any antivirus software.
 
 ## Output
 *log.txt* output:
-
-![log-output output](images/output.png)
+![log-output output](output.png)
 
 ## Contribution
 Feel free to be part of this project by creating a pull request. Questions or suggestions are more than welcomed.
@@ -42,5 +40,4 @@ This software is for educational purposes only. No responsibility is held or acc
 
 ## License
 &copy; 2016 Marios Sofokleous
-
-Licensed under the [MIT License](LICENSE.txt)
+Licensed under the [MIT License](LICENSE)
