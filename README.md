@@ -1,5 +1,5 @@
 ## Synopsis
-This is a basic Windows-only keylogger for US standard keyboards. 
+This is a basic Windows-only keylogger in C++ for US standard keyboards. 
 
 US standard keyboard layout:
 ![us-std-keyboard keyboard](us-std-keyboard.png)
