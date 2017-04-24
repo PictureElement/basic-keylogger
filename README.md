@@ -30,7 +30,7 @@ Note: Disable any antivirus software.
 ![log-output output](output.png)
 
 ## Contribution
-Feel free to be part of this project by creating a pull request. Questions or suggestions are more than welcomed.
+Feel free to be part of this project by forking it. Questions or suggestions are more than welcomed.
 
 ## To do
 - *Send Mail* option
