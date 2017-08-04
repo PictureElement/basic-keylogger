@@ -1,3 +1,6 @@
+## Status
+COMPLETED
+
 ## Synopsis
 This is a basic Windows-only keylogger in C++ for US standard keyboards. 
 
